@@ -1,0 +1,20 @@
+{
+  "name": "se3040-lab03",
+  "version": "1.0.0",
+  "description": "Lab 03 - NodeJS and GitHub Flow",
+  "homepage": "https://github.com/Nikshan0702/se3040-lab03#readme",
+  "bugs": {
+    "url": "https://github.com/Nikshan0702/se3040-lab03/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikshan0702/se3040-lab03.git"
+  },
+  "license": "ISC",
+  "author": "IT23264434",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
