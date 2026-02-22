@@ -15,6 +15,14 @@
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "read-file": "node examples/read-file.js",
+    "write-file": "node examples/write-file.js",
+    "web-server": "node examples/web-server.js",
+    "http-request": "node examples/http-request.js",
+    "use-module": "node examples/use-module.js",
+    "promises": "node examples/promises.js",
+    "async-await": "node examples/async-await.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
